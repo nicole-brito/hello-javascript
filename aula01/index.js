@@ -9,5 +9,4 @@ console.log(`Hello, World`); //String
 console.log(123, 15.85, "Nicole Brito");
 
 // Essa é uma forma de comentar (comentário de linha)
-/* Comentário de bloco */ 
-
+/* Comentário de bloco */
