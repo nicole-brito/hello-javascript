@@ -10,3 +10,5 @@ console.log(Math.random()); //gera um numero aleatorio
 
 const aleatorio = Math.random() * (10 - 5) + 5;
 console.log(aleatorio)
+
+console.log(100 / 0) // Infinity
