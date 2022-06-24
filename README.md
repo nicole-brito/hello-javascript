@@ -14,8 +14,10 @@ Primeiros passos em Javascript a partir do curso da Udemy "Curso de Javascript e
 
 Segue alguns projetos relacionados
 
+- [Calculadora de IMC](https://github.com/nicole-brito/calculadora-imc)
 - [Calculadora em javascript](https://github.com/nicole-brito/calculadora-javascript)
 - [Gerador de Bodes Conselheiros](https://github.com/nicole-brito/gerador-de-bodes) (Em Desenvolvimento)
+
 ## Estatísticas
 
 | Módulo               | Finalizado em | Link |
