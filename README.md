@@ -12,7 +12,7 @@ Primeiros passos em Javascript a partir do curso da Udemy "Curso de Javascript e
 
 ## Relacionados
 
-Segue alguns projetos relacionados
+Alguns projetos relacionados
 
 - [Calculadora de IMC](https://github.com/nicole-brito/calculadora-imc)
 - [Calculadora em javascript](https://github.com/nicole-brito/calculadora-javascript)
